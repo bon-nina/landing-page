@@ -71,4 +71,11 @@ footer {
     height: 5vh;
     display: flex;
     background-color: #1F2937;
+    align-items: center;
+    justify-content: center;
+}
+
+.copyright {
+    color: white;
+    font-size: 12px;
 }
