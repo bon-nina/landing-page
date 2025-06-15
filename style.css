@@ -191,6 +191,40 @@ h2 {
     justify-content: center;
 }
 
+.section-four .content {
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 750px;
+    height: 125px;
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
+.four-left {
+    display: flex;
+    flex-direction: column;
+}
+
+h4 {
+    color:#E5E7EB;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.four {
+    color: #E5E7EB;
+}
+
+.four-right {
+    border-style: solid;
+    border-color: #E5E7EB;
+}
 
 /* footer */
 
