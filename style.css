@@ -3,3 +3,56 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+
+.sections {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+/* section one */
+.section-one {
+    height: 27.5vh;
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+}
+
+.header {
+    height: 5vh;
+    display: flex;
+}
+
+
+/* section two */
+.section-two {
+    height: 22.5vh;
+    display: flex;
+}
+
+
+/* section three */
+.section-three {
+    height: 22.5vh;
+    display: flex;
+    background-color: #E5E7EB;
+}
+
+
+
+/* section four */
+.section-four {
+    height: 22.5vh;
+    display: flex;
+}
+
+
+/* footer */
+
+footer {
+    height: 5vh;
+    display: flex;
+    background-color: #1F2937;
+}
