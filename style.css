@@ -163,7 +163,25 @@ h2 {
     justify-content: center;
 }
 
+.section-three .content {
+    flex-direction: column;
+    justify-content: center;
+    width: 620px;
+}
 
+.three {
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 40px;
+}
 
 
 /* section four */
